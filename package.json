@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@types/node": "^18.11.9"
+  },
+  "scripts": {
+    "start": "node main.js"
   }
 }

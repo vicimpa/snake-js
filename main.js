@@ -1,5 +1,4 @@
 const { Game } = require("./lib/Game");
-const { GameMap } = require("./lib/GameMap");
 const { GameRender } = require("./lib/GameRender");
 
 const map = new Game(40, 20, 4);
